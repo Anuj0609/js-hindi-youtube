@@ -5,7 +5,7 @@ console.log(3
     +3) // code readability shoud be high
      console.log("ANUJ")
 
-     let name= "hitesh"
+     let name= "ANUJ"
      let age=18
      let isLoggedIn=false
      let state;
