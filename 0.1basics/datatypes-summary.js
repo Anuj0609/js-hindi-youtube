@@ -34,3 +34,9 @@ const myFunction = fundtion(){
 }
 
 console.log(typeOf bigNumber);
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//Stack (Primitive), Heap (Non Primitive)
+
+let myYoutubename="hiteshchoudharydotcom"
